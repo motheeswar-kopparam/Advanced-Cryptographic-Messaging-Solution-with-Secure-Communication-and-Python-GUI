@@ -1,0 +1,2 @@
+# Advanced-Cryptographic-Messaging-Solution-with-Secure-Communication-and-Python-GUI
+"Advanced Cryptographic Messaging Solution with Secure Communication and Python GUI" is a secure messaging application built with Python and Tkinter. It ensures end-to-end encryption, safeguarding your messages. With an intuitive Python GUI, this solution provides confidential and real-time communication for personal or enterprise use.
